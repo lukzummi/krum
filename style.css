@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+
+nav {
+    padding: 1rem;
+    background-color:rgb(26, 177, 26);
+    
+   
+}
+
+.nav-con {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logo a{
+    font-size: 2rem;
+    color:aliceblue;
+    text-decoration: none;
+}
+
+.menu {
+    display: flex;
+    list-style: none; 
+    align-items: center;
+}
+
+.menu li a {
+    margin: 0 1rem;
+}
+
+.menu li a {
+    color:aliceblue;
+    text-decoration: none; 
+}
+
+
+
+.blog-title {
+    margin: 2rem 0 ;
+    
+}
+
+
+
+
+
+
+    
+
+
+
+
+
+.blog-item a {
+    display: inline-block;
+    color:rgb(0, 53, 16);
+    background-color:chartreuse;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    
+    
+
+}
+
+.blog-item h4 {
+    
+    font-size: 2rem;
+    color: rgb(17, 97, 24);
+    
+    
+}
+
+.blog-item img {
+    width: 25%;
+    border-radius: 9px;
+
+
+}
+
+
+.blog-item {
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: top;
+    background-image: url(https://img.freepik.com/free-vector/farm-scene-with-barn-hay-park-windmill_1308-36229.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
